@@ -23,7 +23,7 @@
 # Ponderings:
 #   The existing code is very much not open to LOWBALL.
 #     1) The structure of the config won't support LOWBALL rules
-#     2) LOWBALL allow a roll's score to differ from its pinfall
+#     2) LOWBALL allows a roll's score to differ from its pinfall
 #
 # The fundamental design rule is to isolate the things you need to vary,
 # so the first task here is to understand what, exactly, needs to change.

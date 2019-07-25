@@ -10,10 +10,4 @@ Game/Scoresheet collaboration
 1. Use a test double to decouple Game#test_prints_scoresheet_after_turn 
      from DetailedScoresheet  
 
-1. What would it take to use a mock to decouple Game#test_prints_scoresheet_after_turn 
-    from DetailedScoresheet  
-
-1. Consider which is better, the test double or the mock?
-
-
 See bowling_8_classic_scoresheet_refactor for a detailed example.
